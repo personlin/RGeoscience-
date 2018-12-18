@@ -1,0 +1,60 @@
+baseurl = "https://rgeoscience.com/"
+title = "RGeoscience"
+theme = "ghostwriter"
+languageCode = "zh-tw"
+copyright = "RGeoscience"
+disqusShortname = "rgeoscience"
+googleAnalytics = "UA-595344-21"
+
+[Privacy]
+
+[Privacy.disqus]
+    disable = true
+
+[Privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+
+[Author]
+    name = "Person Lin"
+    profile = "https://personlin.com"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = true
+    headline = "RGeoscience"
+    description = "R and Geoscience"
+    github = "https://github.com/personlin/RGeoscience"
+    twitter = "https://twitter.com/rgeoscience"
+    email = "personlin@gmail.com"
+    opengraph = true
+    shareTwitter = true
+    shareFacebook = true
+    shareLinkedIn = false
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Projects"
+    url = "/project/"
+    weight = 2
+
+[[menu.main]]
+    name = "Contact"
+    url = "/page/contact/"
+    weight = 3
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 4

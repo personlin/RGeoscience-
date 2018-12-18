@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on RGeoscience</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on RGeoscience</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>RGeoscience</copyright>
+    <lastBuildDate>Tue, 18 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RGeoscience網站正式成立</title>
+      <link>/2018/12/18/2018-12-18-rgeoscience-website/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/12/18/2018-12-18-rgeoscience-website/</guid>
+      <description>今天(2018-12-18)是RGeoscience網站正式成立，希望未來內容可以持續增加。</description>
+    </item>
+    
+  </channel>
+</rss>
